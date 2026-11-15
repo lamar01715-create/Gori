@@ -1,0 +1,6 @@
+{
+  "name": "Calculator Pro - No Ads",
+  "description": "Ad-free precision calculator with basic and scientific modes, calculation history, custom themes, and one-time Pro upgrade via Google Play Billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

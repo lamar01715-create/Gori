@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculator Pro - No Ads</string>
+    <string name="basic_mode">Basic</string>
+    <string name="scientific_mode">Scientific</string>
+    <string name="pro_badge">PRO</string>
+    <string name="unlock_pro">Go Pro</string>
+    <string name="history_title">History</string>
+    <string name="settings_title">Settings</string>
+    <string name="clear_history">Clear History</string>
+    <string name="clear_history_confirm">Delete all saved calculation history?</string>
+    <string name="cancel">Cancel</string>
+    <string name="clear">Clear</string>
+    <string name="upgrade_to_pro">Upgrade to Pro</string>
+    <string name="restore_purchase">Restore Purchase</string>
+    <string name="no_ads_pledge">Zero Ads • Zero Trackers • One-Time Upgrade</string>
+    <string name="copy_result">Copy result</string>
+    <string name="copied_to_clipboard">Result copied</string>
+    <string name="history_empty_title">No calculations yet</string>
+    <string name="history_empty_subtitle">Your solved expressions will appear here for quick reuse.</string>
+    <string name="back">Back</string>
+</resources>
